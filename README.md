@@ -1,13 +1,13 @@
 # Advent of Code 2020
 
-**Total Stars:** 2 :stars:
+**Total Stars:** 3 :star2:
 
 ## Progression
 
 |Daily Task| :star: | :books: | :star2: | :books: |
 |-|-|-|-|-|
 |[Day 01: Report Repair](day-01)|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
-|Day 02: Password Philosophy|:x:|TBD|:x:|TBD|
+|Day 02: Password Philosophy|:heavy_check_mark:|:snake:|:x:|TBD|
 
 Legend:
 - :star: Task 1 | :star2: Task 2
