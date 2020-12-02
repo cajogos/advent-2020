@@ -2,7 +2,7 @@ import os
 
 def get_inputs_from_file(file):
     path = os.path.dirname(os.path.realpath(__file__))
-    filename = path + "/input.txt"
+    filename = path + "/" + file
     return open(filename).read().strip().split('\n')
 
 def is_valid_password1(policy, password):
