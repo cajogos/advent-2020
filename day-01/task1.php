@@ -20,4 +20,4 @@ for ($i = 0; $i < count($numbers); $i++)
 
 $answer = $num1 * $num2;
 
-echo "The answer is: {$answer}.";
+echo "\nThe answer is: {$answer} | The numbers were: {$num1}, {$num2}.\n";

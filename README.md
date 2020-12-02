@@ -2,11 +2,17 @@
 
 ## Progression
 
-|Daily Task|:star:|:star2:|Language|
+|Daily Task|:star:|:books:|:star2:|:books:|
 |-|-|-|-|
-|Day 01: Report Repair|:heavy_check_mark:|:x:|PHP|
-|Day 02: Password Philosophy|:x:|:x:|N/A|
+|Day 01: Report Repair|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
+|Day 02: Password Philosophy|:x:|TBD|:x:|TBD|
 
-Legend: :heavy_check_mark: - Completed, :x: - Not completed (TODO)
+Legend:
+- :star: Task 1
+- :star2: Task 2
+- :heavy_check_mark: Completed Task
+- :x: Task Not Completed
+- :elephant: PHP
+- :snake: Python
 
-**Total Stars:** 0
+**Total Stars:** 2
