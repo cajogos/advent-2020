@@ -7,7 +7,7 @@
 |Daily Task| :star: | :books: | :star2: | :books: |
 |-|-|-|-|-|
 |[Day 01: Report Repair](day-01)|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
-|Day 02: Password Philosophy|:heavy_check_mark:|:snake:|:heavy_check_mark:|:snake:|
+|[Day 02: Password Philosophy](day-02)|:heavy_check_mark:|:snake:|:heavy_check_mark:|:snake:|
 
 Legend:
 - :star: Task 1 | :star2: Task 2
