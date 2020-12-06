@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-**Total Stars:** 10 :star2:
+**Total Stars:** 11 :star2:
 
 ## Progression
 
@@ -11,6 +11,7 @@
 |[Day 03: Toboggan Trajectory](day-03)|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
 |[Day 04: Passport Processing](day-04)|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
 |[Day 05: Binary Boarding](day-05)|:heavy_check_mark:|:snake:|:heavy_check_mark:|:snake:|
+|[Day 06: Custom Customs](day-06)|:heavy_check_mark:|:elephant:|:heavy_check_mark:|:elephant:|
 
 Legend:
 - :star: Task 1 | :star2: Task 2
