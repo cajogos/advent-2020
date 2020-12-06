@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-**Total Stars:** 11 :star2:
+**Total Stars:** 12 :star2:
 
 ## Progression
 
